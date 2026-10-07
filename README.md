@@ -12,14 +12,14 @@ M.S. Research Scholar in Aerospace Engineering at IIT Madras with 2.5+ years of 
 ---
 
 ### 🛠️ Technical Skills
-- Languages: Python, Fortran, Matlab
+- Languages: Python, Fortran, C++
 - CAE & FEA: Abaqus/Explicit, ANSYS Workbench/APDL, HyperMesh
 - CAD & Tools: SolidWorks, AutoCAD, Git, LaTeX
 
 ---
 
 ### 📌 Featured Projects
-- [Finite-Strain Stress Update for Neo-Hookean Materials](https://github.com/kumaranup888796-eng/finite-strain-neo-hookean)
+- [Finite-Strain Stress Update for Neo-Hookean Materials](https://github.com/kumaranup888796-eng/finite-strain-neo-hookean)  
   Implementation and validation of direct & incremental stress-update algorithms under finite deformation.
-- [Elasto-Plastic Beam Bending Solver](https://github.com/kumaranup888796-eng/elasto-plastic-beam-bending)
+- [Elasto-Plastic Beam Bending Solver](https://github.com/kumaranup888796-eng/elasto-plastic-beam-bending)  
   Python-based non-linear plasticity solver using Newton-Raphson iteration for monotonic and cyclic beam bending.
