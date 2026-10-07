@@ -12,7 +12,7 @@ M.S. Research Scholar in Aerospace Engineering at IIT Madras with 2.5+ years of 
 ---
 
 ### 🛠️ Technical Skills
-- Languages: Python, Fortran, C++
+- Languages: Python, Fortran, Matlab
 - CAE & FEA: Abaqus/Explicit, ANSYS Workbench/APDL, HyperMesh
 - CAD & Tools: SolidWorks, AutoCAD, Git, LaTeX
 
